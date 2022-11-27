@@ -1,4 +1,4 @@
-Dev Note: This reject is done from scratch with the help of Madars Biss coding blog.
+Dev Note: This project is done from scratch with the help of Madars Biss coding blog.
 ----------------------------------------
 # Getting Started with Create React App
 
