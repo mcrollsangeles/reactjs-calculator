@@ -1,5 +1,5 @@
-This reject is done from scratch with the help of Madars Biss coding blogs
-
+Dev Note: This reject is done from scratch with the help of Madars Biss coding blog.
+----------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
